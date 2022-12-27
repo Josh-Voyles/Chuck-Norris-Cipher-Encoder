@@ -1,0 +1,27 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder/*
+!/Chuck Norris Cipher Encoder/task/
+/Chuck Norris Cipher Encoder/task/*
+!/Chuck Norris Cipher Encoder/task/src/
+!/Chuck Norris Cipher Encoder/task/build.gradle
+!/Chuck Norris Cipher Encoder/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Exception handling/Catching some exceptions/out/
+/Topics/Exception handling/Catching some exceptions/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
